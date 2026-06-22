@@ -1,6 +1,6 @@
 # Hey, I'm Kuldeep 👋
 
-Data Science student from India who mostly just builds stuff. AI lets me build across stacks I never formally learned, so I just make whatever seems cool or useful enough.
+Data Science student who mostly builds stuff. AI lets me build across stacks I never formally learned, so I make whatever seems cool or useful enough.
 
 ## Building
 
