@@ -1,19 +1,29 @@
-# Deepu
+# Hey, I'm Deepu 👋
 
-Data science student building practical software, evaluation systems, and financial tools.
+Data Science student who mostly builds stuff. AI lets me build across stacks I never formally learned, so I make whatever seems cool or useful enough.
 
-## Public work
+## Building
 
-### RupeeLens · private project
+- **Content Studio** — end-to-end content creation, built in Electron.
 
-A private-by-default analytical workspace for synthetic UPI transactions, security-log investigation, and Indian Union Budget exploration. It includes configurable generators, explainable risk scoring, anomaly triage, forecasts, comparisons, and exports.
+- **Motion Pipeline** — Remotion-based motion graphics generation.
 
-### [Ponytail Benchmark](https://deepusleepy.github.io/ponytail-benchmark/)
+- **Stock Market Replica** — a working clone of a live trading setup.
 
-An execution-graded study of a coding-efficiency plugin: 480 runs across 24 jobs, with correctness, security, robustness, and code-size measurements. The benchmark found substantially leaner output without a correctness or security loss, alongside a meaningful robustness cost on underspecified edge cases.
+- **IPO Scan** — reads IPO filings (DRHP/RHP) and breaks them down.
 
-## Tools I use
+## Stack
 
-Python · TypeScript · React · Node.js · Electron · SQL · R · Pandas · scikit-learn · XGBoost
+[![My Skills](https://skillicons.dev/icons?i=python,r,java,cpp,mysql,ts,react,nodejs,electron,tensorflow,sklearn,powerbi&perline=12)](https://skillicons.dev)
 
-I care about products that can be tested, claims that can be reproduced, and interfaces that explain what they are doing.
+Also: Pandas · NumPy · XGBoost · Spark · Tableau
+
+## Projects
+
+- **[Ponytail Benchmark](https://github.com/Deepusleepy/ponytail-benchmark)** — 480 execution-graded runs testing whether less generated code changes correctness, security, or robustness.
+
+- **RupeeLens** — UPI transaction risk, security-log analysis, and Indian Union Budget exploration in one private workspace.
+
+---
+
+<sub>One Piece</sub>
