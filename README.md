@@ -22,7 +22,7 @@ Also: Pandas · NumPy · XGBoost · Spark · Tableau
 
 - **[Ponytail Benchmark](https://github.com/Deepusleepy/ponytail-benchmark)** — 480 execution-graded runs testing whether less generated code changes correctness, security, or robustness.
 
-- **RupeeLens** — UPI transaction risk, security-log analysis, and Indian Union Budget exploration in one private workspace.
+- **[RupeeLens](https://github.com/Deepusleepy/RupeeLens)** — UPI transaction risk, security-log analysis, and Indian Union Budget exploration in one workspace.
 
 ---
 
