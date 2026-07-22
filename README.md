@@ -4,7 +4,7 @@ Data science student building practical software, evaluation systems, and financ
 
 ## Public work
 
-### [RupeeLens](https://rupeelens.orewakaizoku1999.chatgpt.site)
+### RupeeLens · private project
 
 A private-by-default analytical workspace for synthetic UPI transactions, security-log investigation, and Indian Union Budget exploration. It includes configurable generators, explainable risk scoring, anomaly triage, forecasts, comparisons, and exports.
 
