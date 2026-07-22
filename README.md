@@ -1,31 +1,19 @@
-# Hey, I'm Deepu 👋
+# Deepu
 
-Data Science student who mostly builds stuff. AI lets me build across stacks I never formally learned, so I make whatever seems cool or useful enough.
+Data science student building practical software, evaluation systems, and financial tools.
 
-## Building
+## Public work
 
-- **Content Studio** — end-to-end content creation, built in Electron.
+### [RupeeLens](https://rupeelens.orewakaizoku1999.chatgpt.site)
 
-- **Motion Pipeline** — Remotion-based motion graphics generation.
+A private-by-default analytical workspace for synthetic UPI transactions, security-log investigation, and Indian Union Budget exploration. It includes configurable generators, explainable risk scoring, anomaly triage, forecasts, comparisons, and exports.
 
-- **Stock Market Replica** — a working clone of a live trading setup.
+### [Ponytail Benchmark](https://deepusleepy.github.io/ponytail-benchmark/)
 
-- **IPO Scan** — reads IPO filings (DRHP/RHP) and breaks them down.
+An execution-graded study of a coding-efficiency plugin: 480 runs across 24 jobs, with correctness, security, robustness, and code-size measurements. The benchmark found substantially leaner output without a correctness or security loss, alongside a meaningful robustness cost on underspecified edge cases.
 
-## Stack
+## Tools I use
 
-[![My Skills](https://skillicons.dev/icons?i=python,r,java,cpp,mysql,ts,react,nodejs,electron,tensorflow,sklearn,powerbi&perline=12)](https://skillicons.dev)
+Python · TypeScript · React · Node.js · Electron · SQL · R · Pandas · scikit-learn · XGBoost
 
-Also: Pandas · NumPy · XGBoost · Spark · Tableau
-
-## Projects
-
-- **[UPI Fraud Detection](https://github.com/KuldeepB19/upi-fraud-detection)** — Random Forest + XGBoost to catch fraudulent UPI transactions.
-
-- **[UPI Log Analyser](https://github.com/KuldeepB19/Upi-Log-Analyser)** — real-time dashboard over 5 log types, catching brute force, DOS, and session anomalies.
-
-- **[Govt. Budget Analysis](https://github.com/KuldeepB19/Govt.-Budget-Analysis)** — ten years of budget data, dug into to see where the money actually goes.
-
----
-
-<sub>One Piece</sub>
+I care about products that can be tested, claims that can be reproduced, and interfaces that explain what they are doing.
