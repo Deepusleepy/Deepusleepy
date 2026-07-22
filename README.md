@@ -1,4 +1,4 @@
-# Hey, I'm Kuldeep 👋
+# Hey, I'm Deepu 👋
 
 Data Science student who mostly builds stuff. AI lets me build across stacks I never formally learned, so I make whatever seems cool or useful enough.
 
