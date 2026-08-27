@@ -4,8 +4,8 @@
 
 ## Projects
 
-- **[RupeeLens](https://github.com/Deepusleepy/RupeeLens)** — UPI transaction risk, security-log analysis, and Indian Union Budget exploration in one TypeScript workspace.
 - **[ParCoar](https://github.com/Deepusleepy/ParCoar)** — 3D multi-storey parking guidance simulator. A Python server routes each car to the closest free bay across 480 bays using Dijkstra, with overhead signs and a live Three.js garage.
+- **[RupeeLens](https://github.com/Deepusleepy/RupeeLens)** — UPI transaction risk, security-log analysis, and Indian Union Budget exploration in one TypeScript workspace.
 - **[Portme](https://github.com/Deepusleepy/portme)** — a Claude Code skill that ports software behavior across repos, languages, and frameworks, and proves the new version matches the old with machine-checked tests.
 
 ## Building
