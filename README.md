@@ -1,6 +1,6 @@
 # Hey, I'm Deepu 👋
 
-19, CS student. I build things I find fun and cool. I like to talk about AI
+19, CS student. I build things I find fun and cool. I like to talk about AI.
 
 ## Projects
 
