@@ -6,7 +6,7 @@
 **i like talking about ai and building things.**
 
 building way too much stuff, hopefully shipping something soon.<br>
-shipping the nose first.
+starting with the nose.
 
 most of the good stuff is private. the public stuff is... public.<br>
 deepu is sleepy. deepu is also shipping. both can be true.
